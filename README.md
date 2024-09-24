@@ -2,8 +2,7 @@
 
 *Enhance WordPress security by toggling core features like XML-RPC, REST API, Heartbeat, Emojis, Embeds, and more.*
 
-![Core Security Toggle Screenshot](<img src="blob:chrome-untrusted://media-app/d9d44ab5-e6cc-41af-8909-5148f8ab7fb6" alt="Screenshot 2024-09-24 12.12.23 PM.png"/>![image](https://github.com/user-attachments/assets/8cd96afa-8ff1-49d5-8093-1e7d04eaaab3)
-)
+![Core Security Toggle Screenshot](https://github.com/user-attachments/assets/8cd96afa-8ff1-49d5-8093-1e7d04eaaab3)
 
 ## Table of Contents
 
@@ -167,14 +166,11 @@ By disabling features that are commonly exploited by attackers, the plugin reduc
    - Overview of the Security Toggle settings page with all available toggles.
 
    ![Admin Interface](https://github.com/user-attachments/assets/6f0a7bde-3655-4c5f-84a0-02dc286637e2)
-)
-)
 
 2. **Toggle Switches**
    - Demonstration of enabling and disabling a feature using the toggle switches.
 
-   ![Toggle Switches](<img src="blob:chrome-untrusted://media-app/d9d44ab5-e6cc-41af-8909-5148f8ab7fb6" alt="Screenshot 2024-09-24 12.12.23 PM.png"/>![image](https://github.com/user-attachments/assets/117197d1-319b-4d59-b5c5-8fdf7ed25aba)
-)
+   ![Toggle Switches](https://github.com/user-attachments/assets/117197d1-319b-4d59-b5c5-8fdf7ed25aba)
 
 ## Credits
 
